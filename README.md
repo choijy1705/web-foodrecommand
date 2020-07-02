@@ -36,7 +36,7 @@ DB와 연동하여 로그인 및 회원가입 기능 구현 로그인을 해야�
 ![enter image description here](./img/signup.png)
 
 - 아이디/비밀번호 찾기 화면
-![enter image description here](./img/find.id)
+![enter image description here](./img/findid.PNG)
 #### QnA
 게시판 및 방명록 기능으로 방문자들이 글을 남기거나 수정 및 댓글을 달 수 있도록 구현
 ![enter image description here](./img/QnA.PNG)
