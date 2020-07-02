@@ -22,11 +22,17 @@
 처음으로 화면으로서 원하는 화면으로 바로 접근할 수 있도록 구현
 클릭하면 랜덤으로 메뉴를 추천해주는 버튼도 함께 구현
 
+![enter image description here](./img/mainpage.PNG)
+
 #### 한식, 중식, 양식
 음식의 종류별로 추천 식당을 보여주는 화면 구현, 로그인 했을 시 식당을 직접 등록하거나 수정할 수 있는 기능 구현
-![enter image description here](./img/mainpage.PNG)
+
 #### 로그인 및 회원가입
 DB와 연동하여 로그인 및 회원가입 기능 구현 로그인을 해야지만 식당에 대한 글을 작성할 수 있도록 구현
+![enter image description here](./img/signin.PNG)
+
+![enter image description here](./img/signup.PNG)
 
 #### QnA
 게시판 및 방명록 기능으로 방문자들이 글을 남기거나 수정 및 댓글을 달 수 있도록 구현
+![enter image description here](./img/QnA.PNG)
