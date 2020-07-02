@@ -24,7 +24,7 @@
 
 #### 한식, 중식, 양식
 음식의 종류별로 추천 식당을 보여주는 화면 구현, 로그인 했을 시 식당을 직접 등록하거나 수정할 수 있는 기능 구현
-![enter image description here](.\img\mainpage.PNG)
+![enter image description here](./img/mainpage.PNG)
 #### 로그인 및 회원가입
 DB와 연동하여 로그인 및 회원가입 기능 구현 로그인을 해야지만 식당에 대한 글을 작성할 수 있도록 구현
 
